@@ -1,0 +1,7 @@
+Bundle-SymbolicName: catalog-api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.prjteam.usergroup.exception,\
+	com.prjteam.usergroup.model,\
+	com.prjteam.usergroup.service,\
+	com.prjteam.usergroup.service.persistence
